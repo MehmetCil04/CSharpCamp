@@ -1,0 +1,13 @@
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Kurslar\CSharpCamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

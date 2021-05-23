@@ -1,0 +1,13 @@
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+D:\Kurslar\CSharpCamp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
