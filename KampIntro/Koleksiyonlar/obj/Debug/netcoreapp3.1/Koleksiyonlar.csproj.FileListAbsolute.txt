@@ -1,0 +1,12 @@
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Kurslar\CSharpCamp\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
